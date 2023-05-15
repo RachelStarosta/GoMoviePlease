@@ -1,0 +1,5 @@
+This is the front end of a react app made in the course "Working with 
+React and Go".  The full project uses git, react (javascript framework), 
+docker, Beekeeper studio ultimate, node and more with a Go or Golang back end.  
+
+The application is a full stack project in which the goal is the have a user interface where a user can login if they have an account with an email and a password.  There is a menu on the left hand side and each button opens to a different web page, with not an href but a Link tag, for efficiency. The user is able to see information about movies,  is provided by the backend and connects to a database containing data about movies, genres, etc. By logging in the user is able to add a movie to the list using a form that creates an input to add new information to present to the user.  
